@@ -1,6 +1,6 @@
-# 🎣Dominic Loschiavo
+# 🎣 Dominic Loschiavo
 
-**University Student**
+**'University Student'**
 
 I'm currently a student studying Math - Computer Science at UCSD.
 
