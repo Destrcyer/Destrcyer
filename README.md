@@ -1,4 +1,8 @@
-## Hi there 👋
+# 🎣Dominic Loschiavo
+
+**University Student**
+
+I'm currently a student studying Math - Computer Science at UCSD.
 
 <!--
 **Destrcyer/Destrcyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
